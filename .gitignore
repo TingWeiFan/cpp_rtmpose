@@ -1,0 +1,14 @@
+# 建置產物
+build/
+out/
+
+# IDE
+.vs/
+.vscode/
+*.user
+
+# 模型與執行結果（體積大，不該進版控）
+*.engine
+*.onnx
+rtmpose_cpp_result.jpg
+rtmpose_result.mp4
