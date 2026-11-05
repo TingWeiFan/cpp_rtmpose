@@ -44,8 +44,6 @@
 | GPU | NVIDIA RTX 3080 |
 | CUDA | 11.7 |
 | TensorRT | 8.6.1.6 |
-| OpenCV | 〈待補〉 |
-| CMake | 〈待補〉 |
 
 ## 準備 engine
 
